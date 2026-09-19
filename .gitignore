@@ -1,0 +1,19 @@
+# Credenciais
+.env
+*.env
+!.env.example
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Editores / SO
+.vscode/
+.idea/
+.DS_Store
+
+# Material de apoio (não versionado)
+docs/
+exemplos/

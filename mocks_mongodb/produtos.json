@@ -1,0 +1,24 @@
+[
+  {
+    "_id": {
+      "$oid": "65e5e3a3f1b2c8b1f8e4b102"
+    },
+    "nome": "Notebook Gamer",
+    "descricao": "Notebook alta performance",
+    "preco_unitario": {
+      "$numberDecimal": "4500.00"
+    },
+    "quantidade_estoque": 10,
+    "imagens": [
+      "img1.png",
+      "img2.png"
+    ],
+    "ativo": true,
+    "vendedor": {
+      "usu_id": {
+        "$oid": "65e5e3a3f1b2c8b1f8e4b101"
+      },
+      "nome_loja": "Tech Store"
+    }
+  }
+]

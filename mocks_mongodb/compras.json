@@ -1,0 +1,38 @@
+[
+  {
+    "_id": {
+      "$oid": "65e5e3a3f1b2c8b1f8e4b105"
+    },
+    "data": {
+      "$date": "2026-09-02T10:00:00Z"
+    },
+    "valor_total": {
+      "$numberDecimal": "4500.00"
+    },
+    "comprador": {
+      "usu_id": {
+        "$oid": "65e5e3a3f1b2c8b1f8e4b104"
+      },
+      "nome": "Maria Souza",
+      "email": "maria@email.com"
+    },
+    "itens": [
+      {
+        "pro_id": {
+          "$oid": "65e5e3a3f1b2c8b1f8e4b102"
+        },
+        "nome": "Notebook Gamer",
+        "preco_unitario": {
+          "$numberDecimal": "4500.00"
+        },
+        "quantidade_adquirida": 1,
+        "vendedor": {
+          "usu_id": {
+            "$oid": "65e5e3a3f1b2c8b1f8e4b101"
+          },
+          "nome_loja": "Tech Store"
+        }
+      }
+    ]
+  }
+]

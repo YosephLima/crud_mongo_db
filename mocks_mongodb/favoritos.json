@@ -1,0 +1,14 @@
+[
+  {
+    "_id": {
+      "$oid": "65e5e3a3f1b2c8b1f8e4b103"
+    },
+    "usu_id": {
+      "$oid": "65e5e3a3f1b2c8b1f8e4b104"
+    },
+    "pro_id": {
+      "$oid": "65e5e3a3f1b2c8b1f8e4b102"
+    },
+    "nome_produto": "Notebook Gamer"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "_id": {
+      "$oid": "65e5e3a3f1b2c8b1f8e4b101"
+    },
+    "nome": "João Silva",
+    "email": "joao@email.com",
+    "senha": "hash_da_senha",
+    "cpf": "52998224725",
+    "enderecos": [
+      {
+        "rua": "Av Guadalupe",
+        "num": "300",
+        "bairro": "Jd América",
+        "cidade": "São José dos Campos",
+        "estado": "SP",
+        "cep": "12235-000"
+      }
+    ],
+    "vendedor": {
+      "nome_loja": "Tech Store",
+      "total_vendas": 15
+    }
+  }
+]
